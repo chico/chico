@@ -6,7 +6,7 @@
 ## I'm the CTO of [Bridge](https://brdg.app), founder of [Code&Robots](https://codeandrobots.com) & a full stack developer
 
 - 🔭 I'm currently working with a remote team to deliver the best user experience possible for making & receiving introductions
-- 🌱 I’m currently learning everything 🤣, including being a first time CTO
+- 🌱 I’m currently learning everything 🤣 including being a first time CTO
 - 👯 I’m looking to collaborate with other CTOs, developers & robot enthusiasts
 - 🥅 Goals: Startup success :rocket:
 - ⚡ Fun fact: I love robots :robot:
