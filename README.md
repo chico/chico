@@ -32,6 +32,9 @@
 
 <br />
 <br />
+<br />
+
+<img align="left" alt="chico's gitHub stats" src="https://github-readme-stats.vercel.app/api?username=chico&show_icons=true&icon_color=fff&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_rank=true" />
 
 [website]: http://chicocharlesworth.com
 [twitter]: https://twitter.com/ccharlesworth
