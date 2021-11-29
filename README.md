@@ -33,8 +33,6 @@
 <br />
 <br />
 
----
-
 [website]: https://chicocharlesworth.com
 [twitter]: https://twitter.com/ccharlesworth
 [linkedin]: https://www.linkedin.com/in/chicocharlesworth
