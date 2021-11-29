@@ -1,6 +1,6 @@
 ### Hi there, I'm Chico 👋 
 
-[![Website](https://img.shields.io/website?label=chicocharlesworth.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://chicocharlesworth.com)
+[![Website](https://img.shields.io/website?label=chicocharlesworth.com&style=for-the-badge&url=http%3A%2F%2Fchicocharlesworth.com)](http://chicocharlesworth.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ccharlesworth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fchico&screen_name=chico)
 
 ## I'm the CTO of [Bridge](https://brdg.app), founder of [Code&Robots](https://codeandrobots.com) & a full stack developer
@@ -33,6 +33,6 @@
 <br />
 <br />
 
-[website]: https://chicocharlesworth.com
+[website]: http://chicocharlesworth.com
 [twitter]: https://twitter.com/ccharlesworth
 [linkedin]: https://www.linkedin.com/in/chicocharlesworth
